@@ -3,7 +3,8 @@ This is a rail booking system used for reservations of seats and check the avail
 # Requirements
 This will be able to distinguish between the high level requirements and low level requirements and able to link between the processes.
 ## High level requirements
-Features: * Database 
+Features: 
+* Database 
 * Inputs
 * Payment 
 
