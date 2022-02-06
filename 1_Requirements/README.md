@@ -11,7 +11,7 @@ Features:
 ## Low level requirements
 How each feature is implemented, Linking between high level and low level requirements
 * The portal should list down the different cities where the stations are located i.e the database
-* Able to take input from the user of source and destination, available trains with departure timings
+* Able to take input from the user of source and destination, available trains with departure timings, date of the journey
 * Receive information of the passengers numbers, age, gender, names etc.
 * Able to select class (AC/Sleeper) and sub class
 * Seat selection according to comfort of passenger according to the seat matrix available
