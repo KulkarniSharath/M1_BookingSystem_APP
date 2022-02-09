@@ -1,1 +1,1 @@
-All the test paln and test output related files under this folder
+All the test plan and test output related files under this folder
