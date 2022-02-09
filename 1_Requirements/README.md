@@ -38,3 +38,6 @@ You need fast internet access.
 Many travel sites shows low prices to attract customers.
 * Opportunuties: Many oppotunities are present to make the things easier, safer, robust. If all things are taken care then there is a huge growth of these kinds of applications in the near future.
 * Threat: Your personal data may be at risk sometimes. Misuse of personal data may lead to attacks to the application and inturn to the system.
+
+* Analysis based on https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/work_Study/Work_Study_Reports/94_NR_2017-18.pdf
+https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/work_Study/2019-20/205_SR_2019-20.pdf
