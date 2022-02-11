@@ -203,6 +203,27 @@ int cal(int y1, int y2, int h)
     return c;
 }
   
+  
+// Function to add details in node
+// for each passengers
+void add_node(char lol[20], char der[6], int b)
+{
+    Node *newptr = NULL, *ptr;
+    newptr = (Node*)malloc(sizeof(Node));
+    strcpy(newptr->name, lol);
+    strcpy(newptr->gen, der);
+    newptr->age = b;
+    newptr->link = NULL;
+    if (start == NULL)
+        start = newptr;
+    else {
+        ptr = start;
+        while (ptr->link != NULL)
+            ptr = ptr->link;
+        ptr->link = newptr;
+    }
+}
+
 // Function for taking details
 // of passengers
 void details(int k)
@@ -224,27 +245,7 @@ void details(int k)
         add_node(val, gen, a);
     }
 }
-  
-// Function to add details in node
-// for each passengers
-void add_node(char lol[20], char der[6], int b)
-{
-    Node *newptr = NULL, *ptr;
-    newptr = (Node*)malloc(sizeof(Node));
-    strcpy(newptr->name, lol);
-    strcpy(newptr->gen, der);
-    newptr->age = b;
-    newptr->link = NULL;
-    if (start == NULL)
-        start = newptr;
-    else {
-        ptr = start;
-        while (ptr->link != NULL)
-            ptr = ptr->link;
-        ptr->link = newptr;
-    }
-}
-  
+
 // Function for choosing seats
 int seat(int p)
 {
