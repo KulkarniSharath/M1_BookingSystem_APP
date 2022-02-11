@@ -3,3 +3,4 @@ Online Ticket Booking System is the ticket booking system which has all types of
 * [![Codacy Badge](https://app.codacy.com/project/badge/Grade/11538d951751498c906cbd2bd140b56a)](https://www.codacy.com/gh/KulkarniSharath/M1_BookingSystem_APP/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KulkarniSharath/M1_BookingSystem_APP&amp;utm_campaign=Badge_Grade)
 * https://api.codiga.io/project/31038/score/svg
 * https://api.codiga.io/project/31038/status/svg
+* https://app.codiga.io/public/project/31038/M1_BookingSystem_APP/dashboard
