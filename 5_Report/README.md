@@ -54,3 +54,8 @@ Structural, Behavioural(Flowchart, Use case diagram)
 ### Use case
 ![Use case -Ticket-booking-system](https://user-images.githubusercontent.com/98825618/153250539-0b7200c5-d802-4e38-9b79-5a9392e4e3c0.png)
 
+# Implementation
+Code and the implementation images are uploaded with images.
+Multifile approach is followed with the files also included.
+![Screenshot (74)](https://user-images.githubusercontent.com/98825618/153630056-45eb5a37-a82a-4063-923c-0b88eb130e2a.png)
+![Screenshot (75)](https://user-images.githubusercontent.com/98825618/153630128-8bd47a0d-81c7-4607-a449-830bb061e606.png)
