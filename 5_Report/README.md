@@ -1,5 +1,8 @@
 # Description 
 This is a rail booking system used for reservations of seats and check the available trains between two stations. This system uses a similar kind of approach and application as the present available booking sites with feature of selecting the seats within the available ones.
+# Introduction
+This project introduces railway reservation system . It explains how reservation is beingdone in Indian Railways. The step by stepprocedure is explained . This project isdeveloped in c language. Almost all the header files have been used in this project. Proper comments have been given at desired locations to make the project user friendly. Various functions and structures are used tomake a complete use of this language.
+
 # Requirements
 This will be able to distinguish between the high level requirements and low level requirements and able to link between the processes.
 ## High level requirements
@@ -59,3 +62,16 @@ Code and the implementation images are uploaded with images.
 Multifile approach is followed with the files also included.
 ![Screenshot (74)](https://user-images.githubusercontent.com/98825618/153630056-45eb5a37-a82a-4063-923c-0b88eb130e2a.png)
 ![Screenshot (75)](https://user-images.githubusercontent.com/98825618/153630128-8bd47a0d-81c7-4607-a449-830bb061e606.png)
+
+# Advantages
+ADVANTAGES OF RAILWAY RESERVATION SYSTEM:
+Now one can easily plan the journeycomfortably as the process is efficient andfast with being easy to access.Reservations can be made through theIndian railways site or at the amplereservation centers all over the country.Also now there are authorized agencieswhich provide reservation facility onbehalf of India railways and withoutwaiting in long line one can easily book aticket. The booking is done through an E- Ticket issue which have a PNR number of which one has to take a print and justhave to show at the station.It not only provide reservation butcancellation can also be done through thissystem at ease and one can use a creditcard to complete the process.This being a big step in termsof improvement in the railway system it iswidely accepted across the country.
+
+
+
+
+
+
+
+
+
