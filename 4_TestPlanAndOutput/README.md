@@ -9,10 +9,10 @@ This section of the test plan lists all the items of the Railway Reservation Sys
 ● Register
 
 * UNIT TESTING
-Unit Testing is a test that tests each single module of the software to check forerrors. This is mainly done to discover errors in the code of the Railway ReservationSystem. The main goal of the unit testing would be to isolate each part of theprogram and to check the correctness of the code. In the case of the RailwayReservation System, all the web forms and the C# classes will be tested. There aremany benefits for this unit testing: ● The unit testing facilitates change in the code. ● It allows testing to be done in a bottom up fashion.At the same time, unit testing has some disadvantages such as, it might notidentify each and every error in the system
+Unit Testing is a test that tests each single module of the software to check for errors. This is mainly done to discover errors in the code of the Railway Reservation System. The main goal of the unit testing would be to isolate each part of the program and to check the correctness of the code. In the case of the Railway Reservation System, all the web forms and the C# classes will be tested. There are many benefits for this unit testing: ● The unit testing facilitates change in the code. ● Bottom-up testing is possible. At the same time,  testing components has some drawbacks. B. It may not be possible to identify all errors in the system
 
 * INTEGRATION TESTING
-In Integration Testing, the individual software modules are combined and testedas a whole unit. The integration testing generally follows unit testing where eachmodule is tested as a separate unit. The main purpose of the integration testing isto test the functional and performance requirements on the major items of theproject. All the modules of the project developed individually would be combinedtogether and tested as a whole system in the integration testing.
+Integration testing combines individual software modules  and tests them as a whole. Integration tests usually follow unit tests. Unit testing tests each module  as a separate entity. The main purpose of  integration testing is to test the functional and performance requirements of the key elements of the project. All the individually developed modules of the project are combined with each other and tested as a complete system in  integration testing.
 
 * SYSTEM TESTING 
 The system testing is mainly done on the whole integrated system to make surethat the project that has been developed meets all the requirements. The testcases for the system testing will be the combination of unit and integration tests.
@@ -21,10 +21,10 @@ The system testing is mainly done on the whole integrated system to make suretha
 This testing is generally performed when the project is nearing its end. This testmainly qualifies the project and decides if it will be accepted by the users of thesystem. The users or the customers of the project are responsible for the test.
 
 * TEST CASE 1 – USER LOGIN
- •Incorrect Input: Incorrect username, which is the email-id in the case of theRailway Reservation System.
- •Pass Criteria: An appropriate message should be generated to indicate that aninvalid username has been typed.
- •Correct Input: The correct input would be a valid e-mail id of the user and acorrect password associated with the email-id which he uses to log in.
- •Pass Criteria: The user should be directed to the webpage that the customer isintended to go to after he logs into the system.
+•Incorrect Input: Incorrect username, which is the emailid in the case of the Railway Reservation System. 
+ •Pass Criteria: An appropriate message should be generated to indicate that an invalid username has been typed. 
+ •Correct Input: The correct input would be a valid email id of the user and a correct password associated with the emailid which he uses to log in. 
+ •Pass Criteria: The user should be directed to the webpage that the customer is intended to go to after he logs into the system.
 
 * TEST CASE 2 – USER REGISTRATION
  •Incorrect Input: Wrong format entered in the input fields for the registrationpage.
