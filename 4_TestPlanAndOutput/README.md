@@ -5,7 +5,6 @@ This section of the test plan lists all the items of the Railway Reservation Sys
 ● Login
 ● Search and book trains
 ● Search and book packages
-● Search and book hotels
 ● Register
 
 * UNIT TESTING
