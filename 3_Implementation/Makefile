@@ -9,7 +9,7 @@ ifdef OS
 else
 	ifeq ($(shell uname),LINUX)
 	RM= rm -rf
-    FixPath = $1
+        FixPath = $1
 	EXEC = exe
 	endif
 endif
