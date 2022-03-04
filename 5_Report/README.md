@@ -67,7 +67,9 @@ Multifile approach is followed with the files also included.
 ADVANTAGES OF RAILWAY RESERVATION SYSTEM:
 Now one can easily plan the journeycomfortably as the process is efficient andfast with being easy to access.Reservations can be made through theIndian railways site or at the amplereservation centers all over the country.Also now there are authorized agencieswhich provide reservation facility onbehalf of India railways and withoutwaiting in long line one can easily book aticket. The booking is done through an E- Ticket issue which have a PNR number of which one has to take a print and justhave to show at the station.It not only provide reservation butcancellation can also be done through thissystem at ease and one can use a creditcard to complete the process.This being a big step in termsof improvement in the railway system it iswidely accepted across the country.
 
-
+# Future Scope
+There is a huge scope in improvement with respect to the current project and available technology currently. We can create a ticket from anywhere and it automatically updates everywhere. Hence there is no confusion at the counters for availablity of tickets.This can be maintained by a global database. 
+Security is main issue and it is possible with the password based security which is only authorised to a person working on it. Cryptography techniques also come into picture for increse in security, hacking any systems will be difficult. Computer communication networks and their security can also be improved. Diffrent types of booking like tatkal, economy, first class divisions can be made to look more easy for user. 
 
 
 
